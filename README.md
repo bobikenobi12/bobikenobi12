@@ -1,5 +1,5 @@
-I work on a startup called TOVR - tovr.eu
+The intelligent layer for European freight - tovr.eu
 
-Also working on a passion project from time to time - beta.prod.itgix.com
+The infrastructure layer for cloud-native teams - alethialabs.io
 
-Get in touch with me - borislav@tovr.eu
+Get in touch with me - borislav@tovr.eu | borislav@alethialabs.io
